@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-23062004-068713";"";
+"REFERENCE";"ISO 1481 - d ST 2,2 x l 13 - F";"";
+"STANDARD";"ISO 1481";"";
+"TraceParts.PartTitle";"Slotted pan head tapping screw - with flat end (type F)";"";
+"TraceParts.InstanceId";"10-23062004-068713BKNEKMQN8ZFKVB0OAIZKM5LAI";"";
+"TraceParts.PartStandardAcronym";"ISO";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Tapping screw ISO 1481 - ST 2,2 x 13 - F";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"MATERIAL";"Steel";"";
+"TraceParts.PartVersion";"1.3.4";"";
