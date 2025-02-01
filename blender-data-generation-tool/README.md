@@ -63,11 +63,11 @@ blender-data-generation-tool/
 │   │   ├── scene_panel.py
 │   │   ├── render_panel.py
 ├── docs/
-│   ├── images/
-│   ├── flowcharts/
+│   ├── images
+│   ├── flowcharts
 ├── examples/
-│   ├── sample_data/
-│   ├── output/
+│   ├── sample_data
+│   ├── output
 ```
 ## Requirements
 
