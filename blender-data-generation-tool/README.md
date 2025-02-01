@@ -48,7 +48,7 @@ Project developed in **2023** as part of my **Undergraduate Final Year Project**
 3. Click **"Render Collections"** to render the collections of objects with the defined camera angles.
 
 ## Project Structure
-
+```
 blender-data-generation-tool/
 ├── README.md
 ├── LICENSE
@@ -68,7 +68,7 @@ blender-data-generation-tool/
 ├── examples/
 │   ├── sample_data/
 │   ├── output/
-
+```
 ## Requirements
 
 - Blender 2.8 or higher.
